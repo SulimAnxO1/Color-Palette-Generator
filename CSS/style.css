@@ -83,3 +83,48 @@ h1::after {
 .color-box :hover {
   transform: translateY(-5px);
 }
+
+.color {
+  height: 120px;
+  cursor: pointer;
+}
+
+.color-info {
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.7rem;
+  font-size: 0.9rem;
+}
+
+.color-info:hover {
+  font-size: 0.95rem;
+  transition: 0.2s ease-in-out;
+}
+
+.hex-value {
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+.hex-value:hover {
+  transform: translateY(0px);
+}
+
+.copy-btn {
+  cursor: pointer;
+  color: hsl(192, 63%, 38%);
+  transition: color 0.2s;
+}
+
+.copy-btn:hover {
+  color: hsl(0, 0%, 30%);
+  transform: translateY(0px);
+}
+
+@media (max-width: 768px) {
+  .palette-container {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  }
+}

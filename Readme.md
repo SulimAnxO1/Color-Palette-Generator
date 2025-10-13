@@ -12,7 +12,7 @@ Generate stunning random color palettes instantly — perfect for designers, dev
 
 ## 🖼️ Preview Images
 
-[Preview](/Image/preview.png)
+(/Image/preview.png)
 
 ---
 

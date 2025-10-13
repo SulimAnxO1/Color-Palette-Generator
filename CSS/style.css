@@ -9,3 +9,18 @@
   font-family: "Rotobo";
 }
 
+body {
+  background: linear-gradient(135deg, #002e72, #c6dcff);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.container {
+  background-color: hsl(0, 0%, 100%);
+  padding: 2rem;
+  border-radius: 1rem;
+  width: 100%;
+}

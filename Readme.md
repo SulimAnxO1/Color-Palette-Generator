@@ -1,6 +1,6 @@
 # 🎨 Color Palette Generator
 
-Generate stunning random color palettes instantly — perfect for designers, developers, and anyone looking for inspiration.
+Generate stunning random color palettes instantly.
 
 ---
 

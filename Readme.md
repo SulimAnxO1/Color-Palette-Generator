@@ -6,7 +6,7 @@ Generate stunning random color palettes instantly — perfect for designers, dev
 
 ## 🚀 Live Demo
 
-👉 [**Live Demo**](https://rando-color-palette-generator.netlify.app/)
+👉 [**Live Demo**]()
 
 ---
 

@@ -4,12 +4,6 @@ Generate stunning random color palettes instantly.
 
 ---
 
-## 🚀 Live Demo
-
-👉 [**Live Demo**]()
-
----
-
 ## 🖼️ Preview Images
 
 ## ![Preview](/Image/preview.png)
